@@ -44,10 +44,16 @@
  <p>بعض الامثلة على تعديل الصلاحيات في الملفات او المجلدات</p>
   <code>
     chmod g+w filename
-    chmod g-wx filename
-    chmod o+w filename
-    chmod o-rwx foldername
   </code>
+  <code>
+    chmod g-wx filename
+  </code>
+  <code>
+    chmod o+w filename
+    </code>
+    <code>
+    chmod o-rwx foldername
+    </code>
  <hr>
   <h1>تغير الصلاحيات بالأرقام </h1>
   <p>يمكن تمثيل الصلاحيات بـ استخدام الارقام فـ</p>
