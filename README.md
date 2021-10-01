@@ -27,13 +27,13 @@
   
    <table>
   <tr>
-    <th>Other => o</th>
-    <th>Groups => g</th>
-    <th>Owner => o</th>
+    <th>Other =>o</th>
+    <th>Groups =>g</th>
+    <th>Owner =>o</th>
   </tr>
   <tr>
-    <td>Execut => x</td>
-    <td>Write => w </td>
+    <td>Execut =>x</td>
+    <td>Write =>w</td>
     <td>Read =>r</td>
   </tr>
 </table> 
