@@ -43,9 +43,12 @@
   <p>اذا كان التعديل يتضمن اضافة صلاحية نستخدم رمز الجمع واذا كان التعديل يتضمن حذف صلاحية نستخدم رمز الطرح </p>
  <h3>بعض الامثلةعلى تعديل الصلاحيات في الملفات او المجلدات</<h3>
   
-    اضافة صلاحيات على الملف chmod +rwx filename 
-    اضافة صلاحيات على المجلد chmod -rwx directoryname
-    chmod +x filename السماح بالتنفيذ للملف 
+  
+    chmod g+w filename
+    chmod g-wx filename
+    chmod o+w filename
+    chmod o-rwx foldername
+ 
   
    
   كل التوفيق .. 
