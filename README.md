@@ -29,7 +29,7 @@
   <tr>
     <th>Other =>o</th>
     <th>Groups =>g</th>
-    <th>Owner =>o</th>
+    <th>user =>u</th>
   </tr>
   <tr>
     <td>Execute =>x</td>
